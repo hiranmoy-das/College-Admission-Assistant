@@ -5,6 +5,8 @@ langchain-community
 langchain-huggingface
 pytesseract
 pdf2image
+pdfplumber
+sentence-transformers
 supabase
 psycopg2-binary
 python-dotenv
